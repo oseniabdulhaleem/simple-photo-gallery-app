@@ -4,10 +4,18 @@
 /node_modules
 /.pnp
 .pnp.js
+#src
+# /src/logo.svg
+# /src/App.test.js 
+# /src/setupTest.js
+# /src/index.js
+# /src/reportWebVitals.js
 
 # testing
 /coverage
-
+#firebase
+.firebaserc
+.firebase.json
 # production
 /build
 
